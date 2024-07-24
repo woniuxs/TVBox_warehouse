@@ -5,9 +5,9 @@
 
 在线源订阅地址：
 
-https://github.moeyy.xyz/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
+https://github.moeyy.xyz/raw.githubusercontent.com/woniuxs/TVBox_warehouse/main/warehouse.txt
 
-https://gh.xxooo.cf/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
+https://gh.xxooo.cf/https://raw.githubusercontent.com/woniuxs/TVBox_warehouse/main/warehouse.txt
 
 此资源需软件支持多仓
 
@@ -25,8 +25,6 @@ https://gh.xxooo.cf/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/m
 
 # TVBox系列软件
 
-https://www.123pan.com/s/sPNbVv-67SXv
+https://www.123pan.com/s/W3FZVv-77rj3.html
 
-# 抖音：1945846073   感谢关注
 
-![本人抖音](https://github.com/PizazzGY/TVBox_warehouse/assets/78096245/606c5ee7-5d1d-4bc6-9daf-de56c568f4ed)
