@@ -1,5 +1,5 @@
 {
-    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;3af085d8b574d54e0e8d1717160d8ed7",
+    "spider": "https://dm.蜗牛.top/danmu.jar;md5;3af085d8b574d54e0e8d1717160d8ed7",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -463,7 +463,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "url": "https://dm.蜗牛.top/live.txt",
             "playerType": 1,
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
         }
