@@ -1,14 +1,10 @@
-# 关注公众号：四次元分享 获取软件及其它资源
+# 关注公众号：蜗牛科技仓 获取软件及其它资源
 
 # TVBox自用资源
 
 在线源订阅地址：
 
-https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
-
-https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
-
-https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
+https://dm.蜗牛.top/影视/api.json
 
 此资源需软件支持多仓
 
