@@ -1,10 +1,14 @@
 {
-    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",
+    "spider": "https://dm.蜗牛.top/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",
     "wallpaper": "https://api.likepoems.com/img/bing",
+    "logo": "https://pan.shangui.cc/f/66yatp/t017acbfe7120dcf421.gif",
+    "warningText":"【蜗牛影视】提示:
+    📢接口软件永远免费 
+    📢长期维护切勿贩卖",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "公众号｜四次元分享",
+            "name": "豆瓣推荐丨公众号【蜗牛科技仓】",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
